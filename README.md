@@ -1,2 +1,1 @@
 # TravelMate
-Tourist Guidance System
